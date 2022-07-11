@@ -90,3 +90,6 @@ dan pada `templates/index.html` Anda perlu memanggil source plot.png tempat Anda
 ```
 <img src="________________________" height="450" width=500>
 ```
+## Result 
+Hasil Dashboard dari Capstone Project di atas (dari app.py yang diupload pada repository ini, dengan insight yang berbeda pada panel ke-enam):
+<img src=https://github.com/shinddayo/capstone-flask/blob/15031bfe60c2ed86b277344d89097c8c21a18607/full_capstone_new.png>
